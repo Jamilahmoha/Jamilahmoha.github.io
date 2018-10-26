@@ -67,7 +67,7 @@ a:focus {
 }
 .navbar-brand {
   height: 40px;
-  padding: 5px 15px;
+  padding: 1px 15px;
   font-size: 18px;
   line-height: 1em;
 }
@@ -304,7 +304,7 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	
+	background-size: cover!important;
 	background: url(../img/bg1.jpg) no-repeat top center;
 }
 
